@@ -6,7 +6,7 @@ actionText: 开始→
 actionLink: /document/
 features:
 - title: 类型安全
-  details: 忘记关于字符串类型的对象，从请求到响应，一切都有类型，异步
+  details: 忘记关于字符串类型的对象，从请求到响应，一切异步具有类型
 - title: 特性丰富
   details: Actix提供了丰富的特性开箱即用。WebSockets，HTTP/2，流，管道，SSL，异步HTTTP客户端等一应俱全
 - title: 扩展性强
