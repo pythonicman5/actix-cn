@@ -18,7 +18,7 @@
 
 ## 案例
 
-如果你还没有准备好，这里有一些案例.
+如果你还没有准备好，这里有一些案例
 
 - [OUISRC/Rust-webapp-starter](https://github.com/OUISRC/Rust-webapp-starter) : Rust single page webapp written in actix-web with vuejs.
 - [swipe-app/swipe-server](https://github.com/swipe-app/swipe-server) : Swipe app api with actix-web and graphql
