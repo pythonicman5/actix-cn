@@ -2,7 +2,7 @@ let { actix } = require ('./category/actix.js')
 
 module.exports = {
     title: 'Actix中文',
-    description: 'Rust的强大的Actor系统和有趣的Web框架',
+    description: 'Actix：Rust的强大的Actor系统和有趣的Web框架',
     head: [
       ['link', { rel: 'icon', href: `/favicon.ico` }],
       ['link', { rel: 'manifest', href: '/manifest.json' }],
