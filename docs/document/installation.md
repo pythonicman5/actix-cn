@@ -12,7 +12,7 @@ Release版本：
 
 ```ini
 [dependencies]
-actix-web = "o.7"
+actix-web = "0.7"
 ```
 
 Development 版本：
