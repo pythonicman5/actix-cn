@@ -2,7 +2,7 @@
 home: true
 heroImage: /imgs/actix-cn.png
 pageClass: front
-actionText: QQ群817562976
+actionText: QQ群570065685
 actionLink: /document/
 features:
 - title: 类型安全
