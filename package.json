@@ -1,8 +1,8 @@
 {
-  "name": "actix-cn-www",
+  "name": "actix-cn",
   "version": "1.0.0",
-  "description": "actix-cn-www",
-  "repository": "https://github.com/actix-cn/actix-cn-www.git",
+  "description": "actix-cn",
+  "repository": "https://github.com/actix-cn/actix-cn.git",
   "license": "MIT",
   "private": true,
   "scripts": {
