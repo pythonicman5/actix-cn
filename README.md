@@ -1,4 +1,4 @@
-# Actix中文 [![Build Status](https://travis-ci.org/actix-cn/actix-cn-www.svg?branch=master)](https://travis-ci.org/actix-cn/actix-cn-www)
+# Actix中文 [![Build Status](https://travis-ci.org/actix-cn/actix-cn.svg?branch=master)](https://travis-ci.org/actix-cn/actix-cn)
 
 ## 修改文件：
 
@@ -13,8 +13,8 @@
 克隆/fork本仓库到你的github
 
 ```bash
-$ git clone https://github.com/你的github名/actix-cn-www
-$ cd actix-cn-www
+$ git clone https://github.com/你的github名/actix-cn
+$ cd actix-cn
 $ npm install
 ```
 
