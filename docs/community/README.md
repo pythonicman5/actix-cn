@@ -20,7 +20,7 @@
 
 如果你还没有准备好，这里有一些案例
 
-- [OUISRC/Rust-webapp-starter](https://github.com/OUISRC/Rust-webapp-starter) : Rust single page webapp written in actix-web with vuejs.
+- [rustlang-cn/Rust-webapp-starter](https://github.com/rustlang-cn/Rust-webapp-starter) : Rust single page webapp written in actix-web with vuejs.
 - [swipe-app/swipe-server](https://github.com/swipe-app/swipe-server) : Swipe app api with actix-web and graphql
 - [yew-actix-protobuf-sample](https://github.com/havarnov/yew-actix-protobuf-sample) : web app written in yew and actix.
 - [yinyanlv/partner](https://github.com/yinyanlv/partner) : 一个私人生活辅助系统，前后端分离。前端：angular6+，material-design；后端：actix-web，diesel，mysql，redis
