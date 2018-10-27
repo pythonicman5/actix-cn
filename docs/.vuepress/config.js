@@ -16,7 +16,7 @@ module.exports = {
     serviceWorker: true,
     theme: 'vue',
     themeConfig: {
-        repo: 'actix-cn',
+        repo: 'actix-cn/actix-cn',
         docsDir: 'docs',
         displayAllHeaders: true,
         editLinks: true,
