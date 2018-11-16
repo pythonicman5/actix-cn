@@ -3,7 +3,7 @@ exports.actix = (title) => {
         '',
         {
           title: '介绍',
-          collapsable: false,
+          collapsable: true,
           children: [
             'whatisactix',
             'installation'
@@ -11,7 +11,7 @@ exports.actix = (title) => {
         },
         {
           title: '基本',
-          collapsable: false,
+          collapsable: true,
           children: [
             'getting-started',
             'application',
@@ -22,7 +22,7 @@ exports.actix = (title) => {
         },
         {
           title: '高级',
-          collapsable: false,
+          collapsable: true,
           children: [
             'error',
             'URL-Dispatch',
@@ -35,7 +35,7 @@ exports.actix = (title) => {
         },
         {
           title: '协议',
-          collapsable: false,
+          collapsable: true,
           children: [
             'websocket',
             'HTTP2'
@@ -43,7 +43,7 @@ exports.actix = (title) => {
         },
         {
           title: '主题',
-          collapsable: false,
+          collapsable: true,
           children: [
             'autoreloade',
             'database',
