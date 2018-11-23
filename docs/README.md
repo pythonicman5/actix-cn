@@ -39,7 +39,7 @@ fn main() {
 
 ## 灵活的请求响应
 
-Actix中的Handler函数可以返回实现该Responder trait的各种对象。这使得从API返回一致的响应变得轻而易举.
+Actix中的Handler函数可以返回实现该`Responder` trait的各种对象。这使得从API返回一致的响应变得轻而易举.
 
 ```rust
 #[derive(Serialize)]
