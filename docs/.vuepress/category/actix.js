@@ -45,7 +45,7 @@ exports.actix = (title) => {
           title: '主题',
           collapsable: true,
           children: [
-            'autoreloade',
+            'autoreload',
             'database',
             'sentry'
           ]
