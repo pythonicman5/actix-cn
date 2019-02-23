@@ -29,9 +29,8 @@ module.exports = {
         nav: [
           { text: '文档', link: '/document/' },
           { text: '社区', link: '/community/' },
-          { text: '文章', link: 'https://zhuanlan.zhihu.com/rustlang-cn' },
           { text: '源码', link: '/code/' },
-          { text: '论坛', link: 'https://github.com/rustlang-cn/forum/issues' },
+          { text: '论坛', link: 'http://47.104.146.58/' },
         ],
         sidebar: {
           '/document/': actix('文档'),
